@@ -1,0 +1,11 @@
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\bin\Debug\netcoreapp2.0\SehirRehberi_API.deps.json
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\bin\Debug\netcoreapp2.0\SehirRehberi_API.runtimeconfig.json
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\bin\Debug\netcoreapp2.0\SehirRehberi_API.runtimeconfig.dev.json
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\bin\Debug\netcoreapp2.0\SehirRehberi_API.dll
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\bin\Debug\netcoreapp2.0\SehirRehberi_API.pdb
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.csprojAssemblyReference.cache
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.csproj.CoreCompileInputs.cache
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.AssemblyInfoInputs.cache
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.AssemblyInfo.cs
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.dll
+B:\Bilgisayar\udemy\Angular_Calismalarim\core_web_app\SehirRehberi_API\SehirRehberi_API\obj\Debug\netcoreapp2.0\SehirRehberi_API.pdb
