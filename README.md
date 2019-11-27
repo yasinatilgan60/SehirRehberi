@@ -17,6 +17,5 @@ npm install angular2-jwt
 npm install ngx-bootstrap --save
 npm install font-awesome --save
 npm install ngx-editor --save
-npm install angular2-jwt
 ```
 Services içerisinde backend ile bağlantının sağlandığı api adresinin (path) projenin çalıştırıldığı api adresine göre güncellenmesi gerekmektedir.
