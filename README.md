@@ -1,5 +1,5 @@
 # SehirRehberi
- Udemy üzerinden aldığım AngularJS eğitiminde .NET Core ve AngularJS ile geliştirmiş olduğum projedir. Gerekli görülen yerlerde yorum satırları ile açıklama yapılmıştır.
+ Udemy üzerinden aldığım AngularJS eğitiminde ASP.NET Core ve AngularJS ile geliştirmiş olduğum projedir. Gerekli görülen yerlerde yorum satırları ile açıklama yapılmıştır.
 
 # SehirRehberi_API - Backend
 
