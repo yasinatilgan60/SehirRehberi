@@ -20,3 +20,7 @@ npm install font-awesome --save
 npm install ngx-editor --save
 ```
 Services içerisinde backend ile bağlantının sağlandığı api adresinin (path) projenin çalıştırıldığı api adresine göre güncellenmesi gerekmektedir.
+
+# Faydanılan Kaynaklar
+
+Eğitim: A'dan Z'ye Angular Kursu - 2019 - Engin Demiroğ - Udemy 
